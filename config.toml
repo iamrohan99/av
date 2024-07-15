@@ -1,0 +1,11 @@
+baseURL = "https://www.aveeplayerpro.online"
+languageCode = "en-us"
+title = "Avee Player Pro"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
