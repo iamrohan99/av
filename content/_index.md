@@ -34,7 +34,9 @@ Avee Player Pro includes a sleep timer, allowing users to set a timer for the mu
 ### Step 1: Download the APK File
 To download the latest version of Avee Player Pro APK, click the button below to download it from a trusted source.
 
-[Download Avee Player Pro APK](#)
+<a href="https://s4-webhot-r-6-c.happymod.com/downloadfile/mod/adbcd099a9dfad21fcaaebf007e58c17/L3TkhLK4TBFxc4C3SKQ6L3rueXF0iCcwfqd6R9D2LX3ydH7olvVmNZ56i9tsLYDvccrskr1xepCySZ87LUKzSX64VckvaaFw" >
+<button type="button" class="btn btn-primary">Download Avee Player Pro APK</button>
+</a>
 
 ### Step 2: Enable Unknown Sources
 Before installing the APK, you need to enable the installation of apps from unknown sources on your Android device. Go to `Settings > Security > Unknown Sources` and toggle it on.
