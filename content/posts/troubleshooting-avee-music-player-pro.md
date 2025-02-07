@@ -7,8 +7,6 @@ description: "Fix common Avee Music Player Pro issues with this troubleshooting 
 author: Admin
 ---
 
-# **Troubleshooting Common Issues with Avee Music Player Pro**  
-
 Avee Music Player Pro is a **powerful music and video player** known for its **customizable visualizers** and **smooth playback**. However, users may occasionally experience **audio issues, video export errors, crashes, or performance slowdowns**.  
 
 🚀 **This guide will help you quickly resolve these common problems and keep Avee Music Player Pro running smoothly!**  
