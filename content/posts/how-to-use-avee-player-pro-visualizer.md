@@ -7,8 +7,6 @@ description: "Master Avee Player Pro’s visualizer and create stunning audio vi
 author: Admin
 ---
 
-# **How to Use Avee Player Pro's Visualizer for Stunning Audio Effects**  
-
 Avee Player Pro is not just a music player—it’s a **powerful visualizer tool** that transforms your music into **stunning audio visual effects**. Whether you want **custom animations, synchronized effects, or video exports**, Avee Player Pro has everything you need.  
 
 In this guide, we’ll explore how to **customize, enhance, and export** your visualizations effortlessly!  
