@@ -42,7 +42,7 @@ Avee Player Pro is not just another music player—it’s designed for **audioph
 ### **Step 1: Download the Latest APK File**  
 > Click the button below to get the latest **Avee Player Pro APK** from a secure source.  
 
-**[⬇ Download Avee Player Pro APK](https://prod.downloadnow.com/f33/6cd/bd4df77ade6df7e894983c1d963805b146/com-daaw-avee-248-69461249-93d67c04d3ad0ba2715a185a707ff0f7.apk?Expires=1738951688&Signature=508669f40583a401bb43033d2d11de0aed086ccc&url=https://download.cnet.com/avee-music-player-pro/3000-2141_4-77488118.html&Filename=com-daaw-avee-248-69461249-93d67c04d3ad0ba2715a185a707ff0f7.apk)**  
+**[⬇ Download Avee Player Pro APK](https://play.google.com/store/apps/details?id=com.daaw.avee)**  
 
 ### **Step 2: Enable "Unknown Sources"**  
 1. Open **Settings** on your Android phone.  
@@ -84,4 +84,4 @@ This website is **not affiliated with the official Avee Player app**. Always dow
 ## **🎶 Start Your Music Journey Today!**  
 Ready to upgrade your music experience? Download Avee Player Pro now and **transform the way you listen to music!**  
 
-**[⬇ Get Avee Player Pro APK Now](https://prod.downloadnow.com/f33/6cd/bd4df77ade6df7e894983c1d963805b146/com-daaw-avee-248-69461249-93d67c04d3ad0ba2715a185a707ff0f7.apk?Expires=1738951688&Signature=508669f40583a401bb43033d2d11de0aed086ccc&url=https://download.cnet.com/avee-music-player-pro/3000-2141_4-77488118.html&Filename=com-daaw-avee-248-69461249-93d67c04d3ad0ba2715a185a707ff0f7.apk)**
+**[⬇ Get Avee Player Pro APK Now](https://play.google.com/store/apps/details?id=com.daaw.avee)**
